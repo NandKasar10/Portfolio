@@ -79,7 +79,7 @@ function Navbar() {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/nand-kasar-902286311"
+            href="https://www.linkedin.com/in/nand-kumar-kasar-902286311"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"

@@ -27,10 +27,11 @@ function About() {
 
             <Typewriter
               words={[
-                "Backend Developer",
+                "AIML Learner",
                 "Full Stack Learner",
                 "DSA in Cpp",
                 "Coder",
+                "Otaku",
               ]}
               loop={true}
               cursor
@@ -42,7 +43,7 @@ function About() {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I’m a backend-first dev in my second semester of CSE, currently leveling up in React.js and exploring new tech to build cool stuff. I grind DSA in C++ on LeetCode, share my learnings online, and love connecting with driven folks—it keeps me motivated (and yeah, maybe it’s that ego push to keep getting better).
+            HEY, you all I'm Nand, I'm currently doing my BTECH course, where 4th Semester is ongoing. Till now I have been explored a lot new technologies and skills, something made my interest go to the higher level, while something didn't get hooked to me. As of now, interested in learning AIML, but seriously Maths part is soo hard, but trying to pick it up. Just started exploring it and found out need to upgrade my math knowledge, but enjoying studying it. It's been an amazing journey btw will keep you are informed about me. Have a great day MATE!   
 
           </p>
           {/* Resume Button */}
