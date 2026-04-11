@@ -106,15 +106,15 @@ export const SkillsInfo = [
   ];
   
   export const projects = [
-    {
-      id: 0,
-      title: "GitHub Profile Detective",
-      description:
-        "Made an SIH Level Selected prototype, for helping the teachers and student interactions and creates and manages attendance of the student automatically.",
-      image: githubdetLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/NandKasar10/Photons-Prototype",
-      webapp: "https://nandkasar10.github.io/Photons-Prototype/ ",
-    },
+    // {
+    //   id: 0,
+    //   title: "GitHub Profile Detective",
+    //   description:
+    //     "Made an SIH Level Selected prototype, for helping the teachers and student interactions and creates and manages attendance of the student automatically.",
+    //   image: githubdetLogo,
+    //   tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
+    //   github: "https://github.com/NandKasar10/Photons-Prototype",
+    //   webapp: "https://nandkasar10.github.io/Photons-Prototype/ ",
+    // },
     
   ];  
