@@ -81,8 +81,8 @@ export const SkillsInfo = [
       img: rungtaLogo,
       school: "Rungta College of Engineering & Technology (R1), Bhilai",
       date: "Sept 2024 - present",
-      grade: "7.68 CGPA ( currently )",
-      desc: "I'm a first-year B.Tech student in Computer Science and Engineering (AI & ML) at Rungta College of Engineering and Technology, Bhilai, currently in my second semester. I’ve built a solid foundation in Data Structures and Algorithms using C++, solving over 100 problems on LeetCode. Alongside academics, I’m actively exploring web development with React.js, Tailwind CSS, and backend technologies like Node.js, Express, Multer, and Cloudinary. With support from my peers and a hands-on learning environment, I’m steadily growing as a developer and laying the groundwork for future app development projects.",
+      grade: "8.2 CGPA ( currently )",
+      desc: "I'm a second-year B.Tech student in Computer Science and Engineering (AI & ML) at Rungta College of Engineering and Technology, Bhilai, currently in my second semester. I’ve built a solid foundation in Data Structures and Algorithms using C++, solving over 300 problems on LeetCode. Alongside academics, I’m actively exploring web development with React.js, Tailwind CSS, and backend technologies like Node.js, Express, Multer, and Cloudinary. With support from my peers and a hands-on learning environment, I’m steadily growing as a developer and laying the groundwork for future app development projects. Recently been exploring AIML, due to heavy math usage, it's right now hard but upgrading it day by day. ",
       degree: "Bachelor of Technology - BTech CSE (AI & ML)",
     },
     {
@@ -106,15 +106,15 @@ export const SkillsInfo = [
   ];
   
   export const projects = [
-    // {
-    //   id: 0,
-    //   title: "GitHub Profile Detective",
-    //   description:
-    //     "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
-    //   image: githubdetLogo,
-    //   tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-    //   github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-    //   webapp: "https://githubprofiledetective.netlify.app/",
-    // },
+    {
+      id: 0,
+      title: "GitHub Profile Detective",
+      description:
+        "Made an SIH Level Selected prototype, for helping the teachers and student interactions and creates and manages attendance of the student automatically.",
+      image: githubdetLogo,
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
+      github: "https://github.com/NandKasar10/Photons-Prototype",
+      webapp: "https://nandkasar10.github.io/Photons-Prototype/ ",
+    },
     
   ];  
